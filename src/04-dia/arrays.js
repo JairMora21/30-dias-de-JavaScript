@@ -1,7 +1,9 @@
-/* Los arrays en JavaScript son un tipo de objeto que permite almacenar una colección de valores. Estos valores pueden ser de cualquier tipo, como números, cadenas, objetos, incluso otros arrays */
+/* Los arrays en JavaScript son un tipo de objeto que permite almacenar una colección de valores.
+ Estos valores pueden ser de cualquier tipo, como números, cadenas, objetos, incluso otros arrays */
 let miArray = [valor1, valor2, valor3]; //sintaxis de un array
 
-/* Uno de los métodos más populares en los arrays de JavaScript es “push()”. Este método permite agregar un nuevo elemento al final del array. 
+/* Uno de los métodos más populares en los arrays de JavaScript es “push()”. Este método permite 
+agregar un nuevo elemento al final del array. 
 Por ejemplo: */
 let colores = ["rojo", "azul", "verde"];
 colores.push("amarillo");
