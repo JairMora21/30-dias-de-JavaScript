@@ -9,7 +9,9 @@ Lo que nosotros tenemos que escribir es la funcion reductora
 //si queremos calcular la suma total debemos usar reduce 
 const numeros = [3, 10, 20, 50];
 /*el primer parametro de reduce es la funcion reductora, la que ira actualizando el acumulador y el segundo 
- parametro es el valor inicial del acumulador ¿, que en este caso es 0*/
+ parametro es el valor inicial del acumulador que en este caso es 0, si tenemos un objeto, este sera el 
+ segundo parametro, por ejemplo si un obeto tiene el valor price, dentro de la funcion debemos especificar 
+ numero.price*/
  let total = numeros.reduce((acumulador, numero) => acumulador + numero , 0);
 
  console.log(total);
