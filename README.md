@@ -2,11 +2,11 @@
 ## Indice
                 
 + **Dia 1**
-    + Item B 1
+    + PENDIENTE
 + **Dia 2**
-    + Item B 1
+    + PENDIENTE
 + **Dia 3**
-    + Item B 1
+    + PENDIENTE
 + **Dia 4**
     + [Arrays](https://github.com/JairMora21/30-dias-de-JavaScript/blob/main/src/04-dia/arrays.js)
 	    + Explicacion
